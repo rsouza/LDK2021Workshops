@@ -15,7 +15,8 @@ Basically, each workshop/tutorial organizing committee would have to:
 
 We are keen to help anyone not experienced with Github "forks" and "pull requests". In this case, it is enough to send us the edited version of the HTML file with the PDFs from the authors' papers, as well as the authorizations. The CEUR paper templates and the authorization document are available in the repository.
 As regards the internal structure of the volume, we thought that organizing the workshops/tutorials in alphabetical order with their respective papers would be preferable, but it will ultimately depend on the overall number of papers received per event.  
-We are working to publish as soon as possible, so we kindly ask you to add the necessary files by October 31.  
+
+In order to attend some requests for a bit more time, we have decided to extend the submissions until November the 12th.  
 Please contact us if you have any questions.
 
 Thanks and all the best,  
